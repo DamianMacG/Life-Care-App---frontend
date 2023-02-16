@@ -1,3 +1,6 @@
+# Youtube Link to App walkthrough and demo - https://www.youtube.com/watch?v=FYX_GQBck_U&ab_channel=CodingforDummies
+
+
 # LifeCare - Front End ReadMe
 
 We realised that carers in the healthcare industry often struggle with outdated and inefficient tools for managing patient handovers. Our app addresses this issue by providing a streamlined and user-friendly platform for carers to quickly and easily access patient information and make notes. The ultimate purpose of our app is to eliminate unnecessary information and ideally should streamline the process of updating patient information, that should make it faster and more efficient. previous carers' notes are easily accessible, improving continuity of care for patients. Our app is the solution to the common problems carers face in the field.
