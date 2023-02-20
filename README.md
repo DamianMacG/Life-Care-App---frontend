@@ -1,5 +1,15 @@
 # Youtube Link to App walkthrough and demo - https://www.youtube.com/watch?v=FYX_GQBck_U&ab_channel=CodingforDummies
 
+## Deployed Here: [lifecare.ondernder.com](https://life-care.onrender.com/)
+
+### ℹ️ Use the following Login Credentials:
+
+username: seana.s@lifecare.com  
+password: lifecaretestuser123!
+
+username: anastassia.b@lifecare.com  
+password: lifecaretestuser123!
+
 
 # LifeCare - Front End ReadMe
 
