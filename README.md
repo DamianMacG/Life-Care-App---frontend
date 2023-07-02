@@ -7,9 +7,6 @@
 username: seana.s@lifecare.com  
 password: lifecaretestuser123!
 
-username: anastassia.b@lifecare.com  
-password: lifecaretestuser123!
-
 
 # LifeCare - Front End ReadMe
 
